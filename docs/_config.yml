@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://thomcraft.uk"
+baseurl: "/"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: ThomCraft
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: mc.thoms.host
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/6QrdCquK2a
+discordServerID: 875222047968612383
+discordChannelID: 1077176062947111043
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
@@ -28,9 +28,9 @@ discordChannelID: 450428756855750666
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
-# siteNav:
-#   - name: Server Map
-#     url: map
+ siteNav:
+   - name: Server Map
+     url: map.thomcraft.uk
 #     newtab: true
 #   - name: Screenshots
 #     url: screenshots
